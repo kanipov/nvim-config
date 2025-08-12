@@ -4,7 +4,7 @@
 
 ## 🌟 Preview
 ![image](img/workspace.png)
-<a href="https://github.com/kanipov/nvim-config/img">See more...</a>
+<a href="https://github.com/kanipov/nvim-config/main/img">See more...</a>
 
 ## ✨ Features
 - Modern plugin manager <a href="https://github.com/folke/lazy.nvim">lazy.nvim</a>
@@ -28,4 +28,4 @@
 - <a href="https://github.com/BurntSushi/ripgrep">ripgrep</a> and <a href="https://github.com/sharkdp/fd">fd</a>
 
 ## 🛠️ Installation
-See <a href="https://github.com/kanipov/nvim-config/doc/installation.txt">installation steps</a> for macOS
+See <a href="https://github.com/kanipov/nvim-config/blob/main/doc/installation.txt">installation steps</a> for macOS
