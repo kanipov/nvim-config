@@ -1,0 +1,61 @@
+Here I have shown installation steps for macOS
+
+But my config works on other systems if all requirements are met
+You can find requirements in README.md
+
+===================================================================================
+
+0. Developer Tools
+You can install dev tools to have clang, python3, git and etc.
+
+Installation: xcode-select --install
+
+===================================================================================
+
+1. Homebrew
+Install package manager to do steps below
+
+Installation: https://brew.sh (official website)
+
+===================================================================================
+
+2. Terminal
+You need to have terminal which can correctly show colors
+Not all terminals can do it (for example default macOS terminal)
+Instead of macOS terminal you can use emulator iTerm2
+
+Installation: brew install --cask iterm2
+
+===================================================================================
+
+3. Nerd Font
+In your terminal you have to use nerd font
+You can choose font you like but I use FiraCode Nerd Font Mono
+
+Installation: brew install --cask font-fira-code-nerd-font
+Set it in iTerm2: iTerm2 > Settings > Profiles > Text > Font (and Non-ASCII Font)
+
+===================================================================================
+
+4. Neovim
+Make sure that Neovim is installed on your device
+
+Check: nvim --version
+Installation: brew install neovim
+
+===================================================================================
+
+5. Some Packages
+You have to install ripgrep and fd for telescope
+
+Installation: brew install ripgrep fd
+
+===================================================================================
+
+6. You are ready
+To use my config clone this repository into ~/.config/nvim
+Do not forget to clean, backup or create it before cloning
+After cloning move all files inside installed folder to ~/.config/nvim
+Now cloned folder is empty and you can delete it
+
+===================================================================================
