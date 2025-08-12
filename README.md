@@ -4,7 +4,7 @@
 
 ## 🌟 Preview
 ![image](img/workspace.png)
-<a href="https://github.com/kanipov/nvim-config/main/img">See more...</a>
+<a href="https://github.com/kanipov/nvim-config/tree/main/img">See more...</a>
 
 ## ✨ Features
 - Modern plugin manager <a href="https://github.com/folke/lazy.nvim">lazy.nvim</a>
