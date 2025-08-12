@@ -11,7 +11,7 @@
 - File explorer with <a href="https://github.com/nvim-tree/nvim-tree.lua">nvim-tree.lua</a>
 - Fast file and text finder with <a href="https://github.com/nvim-telescope/telescope.nvim">telescope.nvim</a>
 - Terminal with <a href="https://github.com/akinsho/toggleterm.nvim">toggleterm.nvim</a>
-- Syntax highlight with <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter</a>
+- Syntax highlighting with <a href="https://github.com/nvim-treesitter/nvim-treesitter">nvim-treesitter</a>
 - Beautiful messages with <a href="https://github.com/folke/noice.nvim">noice.nvim</a>
 - Multitabs with <a href="https://github.com/akinsho/bufferline.nvim">bufferline.nvim</a>
 - Minimalistic start screen with <a href="https://github.com/nvimdev/dashboard-nvim">dashboard-nvim</a>
