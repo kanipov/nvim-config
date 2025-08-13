@@ -55,7 +55,10 @@ Installation: brew install ripgrep fd
 6. You are ready
 To use my config clone this repository into ~/.config/nvim
 Do not forget to clean, backup or create it before cloning
-After cloning move all files inside installed folder to ~/.config/nvim
-Now cloned folder is empty and you can delete it
+
+Run: cd ~/.config/nvim && git clone https://github.com/kanipov/nvim-config.git
+
+Move all files inside installed folder to ~/.config/nvim (smth like unpacking)
+Now installed folder is empty and you can delete it
 
 ===================================================================================

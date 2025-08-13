@@ -15,12 +15,11 @@ end
 
 require("nvim-tree").setup {
     view = {
-	signcolumn = "yes",
-	float = {
-	    enable = true,
-	    open_win_config = open_win_config_func
-	},
-	-- cursorline = false
+	    signcolumn = "yes",
+	    float = {
+	        enable = true,
+	        open_win_config = open_win_config_func
+	    },
     },
     modified = {
 		enable = true
@@ -38,12 +37,6 @@ require("nvim-tree").setup {
 				folder = {
 					arrow_closed = " ",
 					arrow_open = " ",
-					default = "",
-					open = "",
-					empty = "",
-					empty_open = "",
-					symlink = "",
-					symlink_open = ""
 			},
 			default = "󱓻",
 			symlink = "󱓻",
