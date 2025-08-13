@@ -29,4 +29,4 @@
 - <a href="https://github.com/BurntSushi/ripgrep">ripgrep</a> and <a href="https://github.com/sharkdp/fd">fd</a> (for telescope)
 
 ## 🛠️ Installation
-See <a href="https://github.com/kanipov/nvim-config/blob/main/doc/installation.txt">installation steps</a> for macOS
+See <a href="https://github.com/kanipov/nvim-config/blob/main/doc/installation.txt">installation steps</a> for macOS.
